@@ -1,0 +1,7 @@
+After running npm run build and npm run deploy, go here: https://babeljs.io/repl
+
+Copy code from build/static/js/main.9631197f.js and convert it to es-2015
+
+Copy converted code and paste it inside of script tags of For-Tumblr index.html.
+
+Then place the content of that file inside of Tumblr html editor
