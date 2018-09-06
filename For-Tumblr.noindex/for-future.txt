@@ -5,3 +5,5 @@ Copy code from build/static/js/main.9631197f.js and convert it to es-2015
 Copy converted code and paste it inside of script tags of index.html on Tumblr
 
 Then place the content of that file inside of Tumblr html editor
+
+Also take build/static/css/main.0cad7f04.css an put it inside of style tags
